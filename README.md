@@ -1,10 +1,8 @@
 ### Olá! Eu sou o BrunoLima19
 
-- 🔭 Aluno da UNI-Facef (Centro Universitário Municipal de Franca)
-- 🌱 Curso Ciências da Computação no 7° semestre
-- 📫 Contate-me no email: lima14032001@gmail.com
-- 😄 Pronouns: ele/dele
-- 👯 Procuro vaga de estágio para começo imediato
+- 📘 Aluno da UNI-Facef (Centro Universitário Municipal de Franca)
+- 👩🏻‍💻 Curso Ciências da Computação no 7° semestre
+- ⌨ Procuro vaga de estágio para começo imediato
 
 [![BrunoLima19 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLima19)](https://github.com/BrunoLima19/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLima19&layout=compact)](https://github.com/BrunoLima19/github-readme-stats)
