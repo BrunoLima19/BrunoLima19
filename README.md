@@ -15,9 +15,12 @@
 </div>
 
 ##
-
+<!--
 [![BrunoLima19 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLima19)](https://github.com/BrunoLima19/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLima19&layout=compact)](https://github.com/BrunoLima19/github-readme-stats)
+-->
+
+### 👩🏻‍💻 Minhas linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
