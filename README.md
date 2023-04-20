@@ -15,10 +15,9 @@
 </div>
 
 ##
-<!--
+
 [![BrunoLima19 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLima19)](https://github.com/BrunoLima19/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLima19&layout=compact)](https://github.com/BrunoLima19/github-readme-stats)
--->
 
 ### 👩🏻‍💻 Minhas linguagens:
 
