@@ -2,7 +2,6 @@
 
 - 📘 Aluno da UNI-Facef (Centro Universitário Municipal de Franca)
 - 👩🏻‍💻 Curso Ciências da Computação no 7° semestre
-- ⌨ Procuro vaga de estágio para começo imediato
 
 ##
 
